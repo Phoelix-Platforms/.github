@@ -3,7 +3,7 @@
 # Phoelix Software Studio
 
 <p align="center">
-  <img src="https://github.com/your-organization-username/your-repo/blob/main/logo.png?raw=true" alt="Phoelix Logo" width="140" height="140" />
+  <img src="https://avatars.githubusercontent.com/u/291123760?s=400&u=229ea8ecb2310791763266642a2682c1f2de93e3&v=4?raw=true" alt="Phoelix Logo" width="140" height="140" />
 </p>
 
 <p align="center">
