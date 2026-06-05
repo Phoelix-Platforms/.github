@@ -1,6 +1,6 @@
 # .github
 
-# Phoelix Software Studio
+# Phoelix Platforms Ltd.
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/291123760?s=400&u=229ea8ecb2310791763266642a2682c1f2de93e3&v=4?raw=true" alt="Phoelix Logo" width="140" height="140" />
@@ -20,7 +20,7 @@
 
 ## 🏢 Corporate Overview
 
-Phoelix is a specialized software development studio focused on engineering secure multi-tenant SaaS platforms, custom software architectures, and algorithmic automation engines. We deliver enterprise-ready technology solutions that solve market inefficiencies through scalable infrastructure, programmatic data models, and fluid cross-platform execution.
+Phoelix is a specialized software development hub focused on engineering secure multi-tenant SaaS platforms, custom software architectures, and algorithmic automation engines. We deliver enterprise-ready technology solutions that solve market inefficiencies through scalable infrastructure, programmatic data models, and fluid cross-platform execution.
 
 ---
 
@@ -47,7 +47,6 @@ Our engineering infrastructure relies on highly performant, industry-standard fr
 
 ### 🏡 EstateHub
 A comprehensive, B2B2C digital real estate marketplace engineered to unify real estate interactions into a single secure layer. The platform bridges the structural gap between property developers, verified buyers, institutional property owners, and real estate agents. 
-* **Architecture:** Formulated with a React frontend web layer integrated directly with high-performance Firebase query infrastructure to handle dynamic property listings, secure user onboarding, and access control.
 
 ### 📈 Phoelix Sniper Engine
 An enterprise-tier algorithmic trading system designed to track, identify, and execute positions across high-volatility commodities markets (XAUUSD, USoil). 
@@ -66,6 +65,5 @@ We adhere to rigorous continuous integration and continuous delivery (CI/CD) wor
 ---
 
 <p align="center">
-  &copy; 2026 Phoelix Software Studio. All Rights Reserved. <br>
-  <em>Designed to automate. Engineered to scale.</em>
+  &copy; 2026 Phoelix Platforms Ltd. All Rights Reserved.
 </p>
