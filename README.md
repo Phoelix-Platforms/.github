@@ -13,7 +13,7 @@
 <p align="center">
   <a href="#-core-competencies"><img src="https://img.shields.io/badge/Industry-SaaS%20%26%20Automation-4A154B?style=flat-square" alt="Industry"></a>
   <a href="#-active-software-ecosystems"><img src="https://img.shields.io/badge/Platforms-Web%20%7C%20Mobile%20%7C%20MQL5-007ACC?style=flat-square" alt="Platforms"></a>
-  <a href="mailto:emmanuelodel75@gmail.com"><img src="https://img.shields.io/badge/Contact-Enterprise%20Inquiries-107C41?style=flat-square" alt="Contact"></a>
+  <a href="mailto:emmanuelodel75@gmail.com">
 </p>
 
 ---
@@ -46,7 +46,7 @@ Our engineering infrastructure relies on highly performant, industry-standard fr
 ## 🔄 Active Software Ecosystems
 
 ### 🏡 EstateHub
-A comprehensive, B2B2C digital real estate marketplace engineered to unify real estate interactions into a single secure layer. The platform bridges the structural gap between property developers, verified buyers, institutional property owners, and real estate agents. 
+A comprehensive, B2B2C digital real estate marketplace engineered to unify real estate interactions into a single secure layer. The platform bridges the structural gap between property developers, verified sellers, and institutional property owners. 
 
 ### 📈 Phoelix Sniper Engine
 An enterprise-tier algorithmic trading system designed to track, identify, and execute positions across high-volatility commodities markets (XAUUSD, USoil). 
@@ -60,8 +60,6 @@ We adhere to rigorous continuous integration and continuous delivery (CI/CD) wor
 
 * **Automated Quality Gates:** Every repository commit triggers automated syntax linting and structural unit tests inside GitHub Actions before integration authorization.
 * **Cloud Build Workflows:** Native application bundles (`.apk` and `.ipa` structures) are seamlessly generated using remote matrix runners to eliminate local configuration vulnerabilities.
-* **Isolated Resource Access:** Code privacy is strictly managed using private repository environments. Role-based engineering assignments ensure proper segmentation of our intellectual property.
-
 ---
 
 <p align="center">
